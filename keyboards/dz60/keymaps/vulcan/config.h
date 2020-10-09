@@ -3,7 +3,7 @@
 
 #include "../../config.h"
 
-#define BACKLIGHT_BREATHING 1
+#define BACKLIGHT_BREATHING 0
 #define PERMISSIVE_HOLD
 #define TAPPING_TERM 150
 
